@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
        g阿斯11233333344顿撒hhhFor a guide and recipes on how to configure / customize this project
-       顶顶顶顶,<br>
+       顶顶顶顶额鹅鹅鹅,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
