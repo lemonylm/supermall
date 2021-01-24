@@ -1,0 +1,15 @@
+@import "./normalize.css" ;
+* {
+  padding: 0;
+  margin: 0;
+}
+:root {
+    --color-text:#666
+}
+.clearfix::after{
+    clear: both;
+    display: block;
+    height: 0;
+    content: '';
+    visibility: hidden;
+}
